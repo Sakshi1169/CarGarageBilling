@@ -32,8 +32,3 @@ java BillingSystem
 4) Generate Invoice
 5) View Invoices
 0) Exit
-Services:
-- Oil Change       : ₹1200
-- Wheel Alignment  : ₹800
-
-Total: ₹2000
