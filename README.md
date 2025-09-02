@@ -32,12 +32,6 @@ java BillingSystem
 4) Generate Invoice
 5) View Invoices
 0) Exit
-
-📷 Example Output (Invoice)
-Invoice ID: INV101
-Customer : Rahul Patil
-Vehicle  : MH12AB1234 - Honda City
-
 Services:
 - Oil Change       : ₹1200
 - Wheel Alignment  : ₹800
